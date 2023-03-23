@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "681690984084",
+    "project_id": "regstrandlog",
+    "storage_bucket": "regstrandlog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681690984084:android:aab1c8ee3188b0d1950e81",
+        "android_client_info": {
+          "package_name": "net.gree.webview.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681690984084-2gbfqd3bb02cujl4tb7me10gjkcao006.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kEVBKa3vUKhjWuU5BZjlH_L9YvtVV6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681690984084-2gbfqd3bb02cujl4tb7me10gjkcao006.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681690984084-c8cao723vvt8pv4s501g5h15hbcsonra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.gree.webview.sample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
